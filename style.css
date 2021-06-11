@@ -1,0 +1,76 @@
+
+h1, h2, h3, h4, h5{
+    font-family: 'Staatliches', cursive;
+}
+
+
+nav a{
+    color: rgb(28, 29, 29) !important;
+}
+
+nav a:hover{
+    text-decoration: underline;
+    text-decoration-color:#30CA86;
+}
+
+/* hero section  */
+.herosec{
+    background-color: rgb(248, 248, 248);
+}
+
+.herocol1{
+    padding: 200px 200px 100px 100px;
+}
+
+.herocol2{
+    background-image: url(images/bg-intro-desktop.svg);
+    margin-top: -100px;
+    
+}
+
+.herocol2 img{
+    margin-bottom: -150px;
+}
+
+/* why choose us section  */
+.whyus{
+    background-color: rgb(243, 253, 253);
+    padding: 150px 80px 100px 80px;
+}
+
+.whyusdiv1{
+    padding: 0 50rem 3rem 0;
+}
+
+/* latest articles section  */
+.latestsec{
+    padding: 100px 80px;
+    background-color: rgb(248, 248, 248);
+
+}
+
+.latest1{
+    padding-bottom: 3rem;
+}
+
+/* footer section  */
+footer{
+    background-color:#2D314D;
+    color: white;
+    padding: 20px 30px;
+    
+}
+footer li a{
+    color: white !important;
+    
+}
+
+footer li a:hover{
+    color: #30CA86 !important;
+    
+}
+
+.socaildiv img:hover{
+    background-color: turquoise;
+    cursor: pointer;
+}
